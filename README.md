@@ -1,7 +1,5 @@
 <h3 align="center"> Hola a todos 👋</h3>
-<h4 align="center">Mi nombre es <strong>Jose A. De la Ballena</strong></h4>
-<p>Acá pones un texto</p>
-
+<h4 align="center">Mi nombre es <strong> Jose A. De la hoz Ballena </strong></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseDlhB&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
