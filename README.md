@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseDlhB&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
 - 🌎 Soy de Colombia
-- 💻 Ingeniero electrónico
+- 💻 Ingeniero Electrónico
 - 📚 Autodidacta
 
 
