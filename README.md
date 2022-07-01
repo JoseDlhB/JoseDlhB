@@ -1,5 +1,5 @@
-<h3 align="center"> Hola a todos 👋,Soy José A. De la hoz </h3>
-<h4 align="center">Acá pones un subtitulo</h4>
+<h3 align="center"> Hola a todos 👋</h3>
+<h4 align="center">Mi nombre es <strong>Jose A. De la Ballena</strong></h4>
 <p>Acá pones un texto</p>
 
 
